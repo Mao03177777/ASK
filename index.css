@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.gazou{
+    width: auto;
+    height: 80px; ;
+}
+header{
+    background-color:yellow ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.gazou2{
+    width: 100%;
+    
+}
+.in1 a{
+    padding: 25px;
+}
+.ino{
+   position: relative; 
+
+}
+.in2{
+    width: 25ps;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    background-color: rgba(255, 255, 255, 0.431);
+    padding: 2% 4%;
+    font-weight: bold;  
+}
+.inm{
+ 
+    width: 70%;
+
+}
+.ao{
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    
+}
+span{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 1px 3px;
+}
+.ro{
+    display: flex;
+    justify-content: center;
+}
+.no{
+    display: flex;
+    justify-content: space-between;
+
+}
+.wop{
+    width: 22%;
+}
+.wop img{
+    width: 100%;
+    margin-top:50px ;
+   display: flex;
+    justify-content:  space-between;
+    
+
+}
+.zo{
+    width: 100%;
+}
+
