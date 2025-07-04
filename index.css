@@ -34,7 +34,12 @@ header{
     padding: 2% 4%;
     font-weight: bold;  
 }
+.ro{
+    display: flex;
+    justify-content: center;
+}
 .inm{
+    
  
     width: 70%;
 
@@ -49,11 +54,9 @@ span{
     border: 1px solid black;
     border-radius: 30px;
     padding: 1px 3px;
+    margin-left: 1%;
 }
-.ro{
-    display: flex;
-    justify-content: center;
-}
+
 .no{
     display: flex;
     justify-content: space-between;
@@ -73,4 +76,67 @@ span{
 .zo{
     width: 100%;
 }
+.zo h1{
+    font-size: medium;
+}
+.mn{
+    display: flex;
+    justify-content: center;
+}
+.ji{
+    display: flex;
+    justify-content: center;
+    text-decoration:none ;
+    color: black;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 1%;
+    margin: 40px;
 
+}
+.zu{
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    width: 70%;
+    
+    
+}
+.ty{ 
+     width: 100%;
+    background-color: rgba(120, 224, 155, 0.422);
+
+
+}
+.uu{
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    width:  100%;
+
+    
+}
+.dd{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: auto;    
+
+}
+    
+
+.qq{ 
+    display: flex;
+    justify-content:space-around;
+    margin:auto;
+    
+
+
+
+
+
+
+
+
+
+}
