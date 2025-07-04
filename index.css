@@ -105,21 +105,23 @@ span{
 .ty{ 
      width: 100%;
     background-color: rgba(120, 224, 155, 0.422);
+    position: relative;
+    padding: 60px 0px;
+
+
+
 
 
 }
-.uu{
-    border-bottom: 1px solid black;
-    display: flex;
-    align-items: center;
-    width:  100%;
-
     
-}
+    
+
 .dd{
     display: flex;
+    border-bottom: 1px solid black;
     justify-content: center;
-    width: 70%;
+    width: 90%;
+    align-items: center;
     margin: auto;    
 
 }
@@ -128,7 +130,44 @@ span{
 .qq{ 
     display: flex;
     justify-content:space-around;
-    margin:auto;
+    margin: 80px  ;
+    
+    
+    
+    
+    
+}
+
+.yy{
+    background-color: rgba(232, 232, 73, 0.719);  
+    position: absolute;
+    top: 70%;
+    left: 85%;
+    font-size: x-large;
+    padding: 1% 2%;
+
+}
+.kp{
+    position: absolute;
+    background-color:rgba(232, 232, 73, 0.719) ;
+    top: 70%;
+    left: 35%;
+    font-size: x-large;
+    padding: 1% 2%;
+    
+
+}
+.am{
+    font-weight: bold;
+}
+.et{
+    font-weight: bold;
+}
+.qs{
+    display: flex;
+    border-bottom: 1px solid black;
+    align-items: center;
+}
     
 
 
@@ -139,4 +178,3 @@ span{
 
 
 
-}
